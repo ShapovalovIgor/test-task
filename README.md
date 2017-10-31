@@ -61,7 +61,7 @@ Interface: Add Group:
 
 <img src="../master/path/3.3.jpg" width="350" height="250">
 
-Interface: Student:
+Interface: Student filter:
 
 <img src="../master/path/3.4.jpg" width="350" height="250">
 
