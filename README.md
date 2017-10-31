@@ -1,7 +1,7 @@
 Test Task
 =========
-1. ![Interface Group](https://raw.githubusercontent.com/ShapovalovIgor/test-task/tree/master/path/1.1.jpg
-1. ![Interface edit Group](https://raw.githubusercontent.com/ShapovalovIgor/test-task/tree/master/path/1.2.jpg)
+![Interface Group](../master/path/1.1.jpg)
+![Interface edit Group](../master/path/1.2.jpg)
 
 Prerequisites
 -------------
