@@ -4,7 +4,7 @@ Test Task
 Interface: add Group:
 ![Interface add Group](../master/path/1.1.jpg){:height="30%" width="30%"}
 Interface: Edit Group:
-![Interface edit Group](../master/path/1.2.jpg){:height="30%" width="30%"}
+<img src="../master/path/1.2.jpg" width="250" height="300">
 
 Prerequisites
 -------------
