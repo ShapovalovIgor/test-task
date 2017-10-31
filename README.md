@@ -1,7 +1,10 @@
 Test Task
 =========
-![Interface Group](../master/path/1.1.jpg)
-![Interface edit Group](../master/path/1.2.jpg)
+1.1(branch mame: master) Interface application in one form:
+Interface: add Group:
+![Interface add Group](../master/path/1.1.jpg =250x250)
+Interface: Edit Group:
+![Interface edit Group](../master/path/1.2.jpg =250x250)
 
 Prerequisites
 -------------
