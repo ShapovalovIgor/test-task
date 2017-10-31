@@ -1,5 +1,7 @@
 Test Task
 =========
+1. ![alt text](https://raw.githubusercontent.com/ShapovalovIgor/test-task/path/1.1.jpg
+1. ![alt text](https://raw.githubusercontent.com/ShapovalovIgor/test-task/path/1.2.jpg)
 
 Prerequisites
 -------------
