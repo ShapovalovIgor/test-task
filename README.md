@@ -49,7 +49,7 @@ Interface: Add Student:
 3. Branch mame: model_separation_3
 Interface application external windows add item and edition item:
 
-Interface: Group:
+Interface: Group filter:
 
 <img src="../master/path/3.1.jpg" width="350" height="250">
 
