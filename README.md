@@ -1,6 +1,25 @@
 Test Task
 =========
 
+Branch mame: model_separation_1
+Interface application in one form:
+
+Interface: Add Group:
+
+<img src="../master/path/1.1.jpg" width="350" height="250">
+
+Interface: Edit Group:
+
+<img src="../master/path/1.2.jpg" width="350" height="250">
+
+Interface: Add Student:
+
+<img src="../master/path/1.3.jpg" width="350" height="250">
+
+Interface: Edit Student:
+
+<img src="../master/path/1.4.jpg" width="350" height="250">
+
 Prerequisites
 -------------
 
